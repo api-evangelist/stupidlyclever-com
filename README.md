@@ -1,4 +1,4 @@
-# stupidlyclever-com
+# Stupidly Clever
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-stupidlyclever-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://stupidlyclever.com/
+Stupidly Clever provides a suite of calculation and reference data tools for applications, agents, and individuals. Their platform offers over 150 verified calculators covering finance, health, demographics, and more, accessible via a REST API or directly in the browser. The company emphasizes data accuracy, versioned datasets, and easy integration without requiring sign‑up for basic use. They also offer an MCP for AI agents and detailed documentation for developers.
+
+**Areas:** Data · Calculators · Finance · Health · Demographics
+
+## Stupidly Clever on APIs.io
+
+Everything profiled for Stupidly Clever is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stupidlyclever-com/](https://apis.io/providers/stupidlyclever-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [Stupidly Clever Business Finance API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-business-finance-api/) — Startup, SaaS, and corporate finance tools
+- [Stupidly Clever Composite API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-composite-api/) — Multi-factor analysis combining several data sources
+- [Stupidly Clever Dates & Time API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-dates-time-api/) — Date arithmetic, business days, public holidays, timezone tools
+- [Stupidly Clever Developer Tools API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-developer-tools-api/) — Phone, email, IBAN, VAT validation; DNS, IP, SSL lookups
+- [Stupidly Clever Energy API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-energy-api/) — The Energy API from Stupidly Clever — 1 operation(s) for energy.
+- [Stupidly Clever Finance API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-finance-api/) — Mortgage, investment, tax, and personal finance calculators
+- [Stupidly Clever Global API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-global-api/) — Cross-country comparison, currency, electricity, and carbon tools
+- [Stupidly Clever Health API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-health-api/) — The Health API from Stupidly Clever — 2 operation(s) for health.
+- [Stupidly Clever Health & Life API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-health-life-api/) — Health metrics, sleep, longevity, and lifestyle calculators
+- [Stupidly Clever Income & Wealth API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-income-wealth-api/) — Salary, income percentile, and wealth comparison
+- [Stupidly Clever Project Management API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-project-management-api/) — EVM, critical path, burn rate, and PERT tools
+- [Stupidly Clever Science & Stats API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-science-stats-api/) — Statistics, physics, and engineering calculators
+- [Stupidly Clever Status API](https://apis.io/apis/stupidlyclever-com/stupidlyclever-com-status-api/) — The Status API from Stupidly Clever — 1 operation(s) for status.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Stupidly Clever Agentic Access](https://apis.io/agentic-access/stupidlyclever-com/stupidlyclever-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Stupidlyclever Com Context](https://apis.io/jsonld/stupidlyclever-com/stupidlyclever-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Stupidly Clever API Rules](https://apis.io/rules/stupidlyclever-com/stupidlyclever-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Stupidly Clever Authentication](https://apis.io/security/stupidlyclever-com/stupidlyclever-com-authentication/)
+- [Stupidly Clever Domain Security](https://apis.io/security/stupidlyclever-com/stupidlyclever-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Stupidly Clever Plans Pricing](https://apis.io/plans/stupidlyclever-com/stupidlyclever-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stupidlyclever.com/)
+- [Documentation](https://www.stupidlyclever.com/docs)
+- [Pricing](https://www.stupidlyclever.com/pricing)
+- [Sign up](https://www.stupidlyclever.com/signup)
+- [Support](https://www.stupidlyclever.com/support)
+- [Terms of service](https://www.stupidlyclever.com/terms)
+- [Privacy policy](https://www.stupidlyclever.com/privacy)
+- [Status](https://api.stupidlyclever.com/status)
+
+## API Evangelist rating
+
+**Kin Score 53.7** — developing · rubric 0.27.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 53.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 39.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.5** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stupidlyclever-com/](https://apis.io/providers/stupidlyclever-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Stupidly Clever: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/stupidlyclever-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
